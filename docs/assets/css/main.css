@@ -4687,3 +4687,11 @@ input, select, textarea {
 		}
 
 	}
+
+/* intro section */
+#intro{
+	background-image: url(../../images/image5.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	 
+}
